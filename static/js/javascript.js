@@ -12,8 +12,8 @@ $(document).ready(function() {
 		},
 
 		app.vars = {
-			EU:"http://eu-bns.ncsoft.com/ingame/bs/character/search/info",
-			NA:"http://na-bns.ncsoft.com/ingame/bs/character/search/info",
+			EU:"https://eu-bns.ncsoft.com/ingame/bs/character/search/info",
+			NA:"https://na-bns.ncsoft.com/ingame/bs/character/search/info",
 			activePage: "Europe"
 		},
 
