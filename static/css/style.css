@@ -1,0 +1,55 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	font-family:sans-serif;
+	background: url(http://static.bladeandsoul.com/img/desolate-tomb/desolate_tomb_01_header.jpg);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+iframe#characterInfo{
+	width:1082px;
+	height:703px;
+	display:block;
+	margin:auto;
+}
+
+nav{
+	background:rgba(0,0,0,0.5);
+	padding:2em 0 2em 0;
+}
+
+nav ul{
+	width:1082px;
+	display:block;
+	margin:auto;
+}
+
+nav ul li{
+	display: inline;
+
+}
+
+nav ul li:nth-of-type(2){
+	display: inline;
+	margin-left:4em
+}
+
+nav ul li a{
+	color:white;
+	text-decoration: none;
+	font-size: 2em;
+	text-transform: uppercase;
+	font-weight:100;
+	opacity:0.7;
+
+}
+
+nav ul li a.focus{
+	opacity:1;
+}
