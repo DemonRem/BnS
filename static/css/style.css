@@ -17,6 +17,8 @@ iframe#characterInfo{
 	height:703px;
 	display:block;
 	margin:auto;
+	background: rgba(0,20,40,0.8);
+	margin-top: 2em;
 }
 
 nav{
